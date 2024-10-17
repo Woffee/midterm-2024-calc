@@ -64,7 +64,7 @@ Incorporate key design patterns to address software design challenges, including
 ### Testing and Code Quality
 
 - Achieve a minimum of 90% test coverage with Pytest.
-- Ensure code quality and adherence to PEP 8 standards, verified by Pylint.
+- ~~Ensure code quality and adherence to PEP 8 standards, verified by Pylint.~~
 
 ### Version Control Best Practices
 
