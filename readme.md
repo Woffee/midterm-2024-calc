@@ -36,7 +36,7 @@ Create a flexible plugin system to allow seamless integration of new commands or
 ### Calculation History Management with Pandas
 
 Utilize Pandas to manage a robust calculation history, enabling users to:
-- Load, save, clear, and delete history records through the REPL interface.
+- Load, save, clear ~~and delete ,~~ history records through the REPL interface.
 
 
 ### Professional Logging Practices
